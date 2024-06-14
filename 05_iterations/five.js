@@ -32,3 +32,6 @@ const languages  = [
 languages.forEach((item) => {
     console.log(item.languageName);
 })
+
+
+
